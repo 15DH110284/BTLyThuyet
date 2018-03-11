@@ -1,0 +1,9 @@
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\bin\Debug\Client.exe
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\bin\Debug\Client.pdb
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Client.Form1.resources
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Client.exe
+C:\Users\Thuan\Desktop\SentFileClient-Server\Server\Server\obj\Debug\Client.pdb
