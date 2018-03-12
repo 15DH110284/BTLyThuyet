@@ -14,7 +14,7 @@ namespace Server
         public Form1()
         {
             InitializeComponent();
-            Client.path = "C:/Users/nguye/Desktop/"; //mặc định nhận file tại desktop
+            Client.path = "C:/Users/Thuan/Desktop/"; //mặc định nhận file tại desktop
         }
         public static string path;
         public static string MessageCurrent = "Stopped";
